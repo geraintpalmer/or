@@ -17,19 +17,19 @@ Handbook
 
 Problem sheets
 --------------
-+ [Chapter 1](/or/resources/sheet1.pdf): Probability Distributions ([Solutions](/or/resources/sheet1_sols.pdf))
-+ [Chapter 2](/or/resources/sheet2.pdf): Markov Chains ([Solutions](/or/resources/sheet1_sols.pdf))
-+ [Chapter 3](/or/resources/sheet3.pdf): Queueing Theory ([Solutions](/or/resources/sheet1_sols.pdf))
-+ [Chapter 4](/or/resources/sheet4.pdf): Stochastic Simulation ([Solutions](/or/resources/sheet1_sols.pdf))
-+ [Chapter 5](/or/resources/sheet5.pdf): Linear Programming ([Solutions](/or/resources/sheet1_sols.pdf))
-+ [Chapter 6](/or/resources/sheet6.pdf): Transportation Problems ([Solutions](/or/resources/sheet1_sols.pdf))
-+ [Chapter 7](/or/resources/sheet7.pdf): Dynamic Programming ([Solutions](/or/resources/sheet1_sols.pdf))
-+ [Chapter 8](/or/resources/sheet8.pdf): Project Management ([Solutions](/or/resources/sheet1_sols.pdf))
++ [Chapter 1](/or/resources/sheet1.pdf): Probability Distributions {% comment %}([Solutions](/or/resources/sheet1_sols.pdf)){% endcomment %}
++ [Chapter 2](/or/resources/sheet2.pdf): Markov Chains {% comment %}([Solutions](/or/resources/sheet1_sols.pdf)){% endcomment %}
++ [Chapter 3](/or/resources/sheet3.pdf): Queueing Theory {% comment %}([Solutions](/or/resources/sheet1_sols.pdf)){% endcomment %}
++ [Chapter 4](/or/resources/sheet4.pdf): Stochastic Simulation {% comment %}([Solutions](/or/resources/sheet1_sols.pdf)){% endcomment %}
++ [Chapter 5](/or/resources/sheet5.pdf): Linear Programming {% comment %}([Solutions](/or/resources/sheet1_sols.pdf)){% endcomment %}
++ [Chapter 6](/or/resources/sheet6.pdf): Transportation Problems {% comment %}([Solutions](/or/resources/sheet1_sols.pdf)){% endcomment %}
++ [Chapter 7](/or/resources/sheet7.pdf): Dynamic Programming {% comment %}([Solutions](/or/resources/sheet1_sols.pdf)){% endcomment %}
++ [Chapter 8](/or/resources/sheet8.pdf): Project Management {% comment %}([Solutions](/or/resources/sheet1_sols.pdf)){% endcomment %}
 
 Mock Exams
 ----------
-+ [Mock exam 1](/or/resources/mock_exam_1.pdf) ([Solutions](/or/resources/mock_exam_1_sols.pdf))
-+ [Mock exam 2](/or/resources/mock_exam_1.pdf) ([Solutions](/or/resources/mock_exam_2_sols.pdf))
++ [Mock exam 1](/or/resources/mock_exam_1.pdf) {% comment %}([Solutions](/or/resources/mock_exam_1_sols.pdf)){% endcomment %}
++ [Mock exam 2](/or/resources/mock_exam_1.pdf) {% comment %}([Solutions](/or/resources/mock_exam_2_sols.pdf)){% endcomment %}
 
 Mock Coursework
 ---------------
