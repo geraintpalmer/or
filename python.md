@@ -17,3 +17,15 @@ Exercises
 + [Exercises 6](/or/python/week6.pdf): Insights from Data
 + [Exercises 7](/or/python/week7.pdf): Computing Efficiently
 + [Exercises 8](/or/python/week8.pdf): Understanding Randomness
+
+Supplementary Data
+------------------
+
++ [`hospital.csv`](/or/python/data/hospital.csv)
++ [`hospital_extra_column.csv`](/or/python/data/hospital_extra_column.csv)
++ [`hospital_extra_row.csv`](/or/python/data/hospital_extra_row.csv)
++ [`houses.csv`](/or/python/data/houses.csv)
++ [`plants.csv`](/or/python/data/plants.csv)
++ [`spain.csv`](/or/python/data/spain.csv)
++ [`spain_distances.csv`](/or/python/data/spain_distances.csv)
++ [`titanic.csv`](/or/python/data/titanic.csv)
