@@ -30,3 +30,7 @@ markdown: kramdown
 permalink: pretty
 syntax_highlighter: rouge
 future: true
+
+collections:
+    python:
+        output: true

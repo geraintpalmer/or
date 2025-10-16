@@ -38,3 +38,7 @@ Mock Coursework
 Revision Quiz
 -------------
 + [Revision Quiz](https://www.geraintianpalmer.org.uk/revision-quiz/)
+
+Python Resources
+----------------
++ [Python for OR and Stats](/or/python/)

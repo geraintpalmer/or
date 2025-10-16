@@ -38,3 +38,7 @@ Ffug Gwaith Cwrs
 Cwis Adolygu
 ------------
 + [Cwis Adolygu](https://www.geraintianpalmer.org.uk/revision-quiz/)
+
+Adnoddau Python
+---------------
++ (yn Saesneg) [Python for OR and Stats](/or/python/)
