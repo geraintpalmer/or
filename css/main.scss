@@ -51,3 +51,31 @@ $on-laptop:        1200px;
         "layout",
         "syntax-highlighting"
 ;
+
+
+/**
+ * Dropdowns
+ */
+
+details {
+  border: 1px solid #aaaaaa;
+  border-radius: 20px;
+  padding: 0.4em 0.4em 0;
+}
+
+summary {
+  font-weight: bold;
+  font-style: italic;
+  margin: -0.4em -0.4em 0;
+  padding: 0.4em;
+}
+
+details[open] {
+  padding: 0.4em;
+  padding-bottom: 0;
+}
+
+details[open] summary {
+  border-bottom: 1px solid #aaaaaa;
+  margin-bottom: 0.4em;
+}
