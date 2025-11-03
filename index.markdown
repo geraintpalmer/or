@@ -48,7 +48,7 @@ Problem sheets
     </li>
     <li> Chapter 3: Queueing Theory
       <ul>
-        <li><a href="/or/resources/sheet2_sols.pdf">Written Solutions 3</a></li>
+        <li><a href="/or/resources/sheet3_sols.pdf">Written Solutions 3</a></li>
         <li><a href="https://youtu.be/e8Q5tRsNIuo">Video: Question 1</a></li>
         <li><a href="https://youtu.be/bFdcoBOMEZk">Video: Question 2</a></li>
         <li><a href="https://youtu.be/Y0_1XdVYdW8">Video: Question 3</a></li>
@@ -59,7 +59,7 @@ Problem sheets
     </li>
     <li> Chapter 4: Stochastic Simulation
       <ul>
-        <li><a href="/or/resources/sheet2_sols.pdf">Written Solutions 4</a></li>
+        <li><a href="/or/resources/sheet4_sols.pdf">Written Solutions 4</a></li>
         <li><a href="https://youtu.be/Af_5SNAwPRs">Video: Questions 1 & 2</a></li>
         <li><a href="https://youtu.be/AScZNT8mLXs">Video: Question 3</a></li>
         <li><a href="https://youtu.be/Em-Yb1nvhXQ">Video: Question 4</a></li>
@@ -68,22 +68,22 @@ Problem sheets
     </li>
     <li> Chapter 5: Linear Programming
       <ul>
-        <li><a href="/or/resources/sheet2_sols.pdf">Written Solutions 5</a></li>
+        <li><a href="/or/resources/sheet5_sols.pdf">Written Solutions 5</a></li>
       </ul>
     </li>
     <li> Chapter 6: Transportation Problems
       <ul>
-        <li><a href="/or/resources/sheet2_sols.pdf">Written Solutions 6</a></li>
+        <li><a href="/or/resources/sheet6_sols.pdf">Written Solutions 6</a></li>
       </ul>
     </li>
     <li> Chapter 7: Dynamic Programming
       <ul>
-        <li><a href="/or/resources/sheet2_sols.pdf">Written Solutions 7</a></li>
+        <li><a href="/or/resources/sheet7_sols.pdf">Written Solutions 7</a></li>
       </ul>
     </li>
     <li> Chapter 8: Project Management
       <ul>
-        <li><a href="/or/resources/sheet2_sols.pdf">Written Solutions 8</a></li>
+        <li><a href="/or/resources/sheet8_sols.pdf">Written Solutions 8</a></li>
       </ul>
     </li>
   </ul>

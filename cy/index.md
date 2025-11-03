@@ -47,7 +47,7 @@ Taflennu Problemau
     </li>
     <li> Pennod 3: Theori Ciwio
       <ul>
-        <li><a href="/or/resources/sheet2_sols_cy.pdf">Datrysiadau Ysgrifenedig 3</a></li>
+        <li><a href="/or/resources/sheet3_sols_cy.pdf">Datrysiadau Ysgrifenedig 3</a></li>
         <li><a href="https://youtu.be/e8Q5tRsNIuo">Fideo: Cwestiwn 1 (<img class="emoji" draggable="false" src="https://twemoji.maxcdn.com/2/svg/1f1ec-1f1e7.svg"/>)</a></li>
         <li><a href="https://youtu.be/bFdcoBOMEZk">Fideo: Cwestiwn 2 (<img class="emoji" draggable="false" src="https://twemoji.maxcdn.com/2/svg/1f1ec-1f1e7.svg"/>)</a></li>
         <li><a href="https://youtu.be/Y0_1XdVYdW8">Fideo: Cwestiwn 3 (<img class="emoji" draggable="false" src="https://twemoji.maxcdn.com/2/svg/1f1ec-1f1e7.svg"/>)</a></li>
@@ -58,7 +58,7 @@ Taflennu Problemau
     </li>
     <li> Pennod 4: Efelychiad Stocastig
       <ul>
-        <li><a href="/or/resources/sheet2_sols_cy.pdf">Datrysiadau Ysgrifenedig 4</a></li>
+        <li><a href="/or/resources/sheet4_sols_cy.pdf">Datrysiadau Ysgrifenedig 4</a></li>
         <li><a href="https://youtu.be/Af_5SNAwPRs">Fideo: Cwestiynnau1 & 2 (<img class="emoji" draggable="false" src="https://twemoji.maxcdn.com/2/svg/1f1ec-1f1e7.svg"/>)</a></li>
         <li><a href="https://youtu.be/AScZNT8mLXs">Fideo: Cwestiwn 3 (<img class="emoji" draggable="false" src="https://twemoji.maxcdn.com/2/svg/1f1ec-1f1e7.svg"/>)</a></li>
         <li><a href="https://youtu.be/Em-Yb1nvhXQ">Fideo: Cwestiwn 4 (<img class="emoji" draggable="false" src="https://twemoji.maxcdn.com/2/svg/1f1ec-1f1e7.svg"/>)</a></li>
@@ -67,22 +67,22 @@ Taflennu Problemau
     </li>
     <li> Pennod 5: Rhaglennu Llinol
       <ul>
-        <li><a href="/or/resources/sheet2_sols_cy.pdf">Datrysiadau Ysgrifenedig 5</a></li>
+        <li><a href="/or/resources/sheet5_sols_cy.pdf">Datrysiadau Ysgrifenedig 5</a></li>
       </ul>
     </li>
     <li> Pennod 6: Problemau Cludiant
       <ul>
-        <li><a href="/or/resources/sheet2_sols_cy.pdf">Datrysiadau Ysgrifenedig 6</a></li>
+        <li><a href="/or/resources/sheet6_sols_cy.pdf">Datrysiadau Ysgrifenedig 6</a></li>
       </ul>
     </li>
     <li> Pennod 7: Rhaglennu Deinameg
       <ul>
-        <li><a href="/or/resources/sheet2_sols_cy.pdf">Datrysiadau Ysgrifenedig 7</a></li>
+        <li><a href="/or/resources/sheet7_sols_cy.pdf">Datrysiadau Ysgrifenedig 7</a></li>
       </ul>
     </li>
     <li> Pennod 8: Rheoli Prosiectau
       <ul>
-        <li><a href="/or/resources/sheet2_sols_cy.pdf">Datrysiadau Ysgrifenedig 8</a></li>
+        <li><a href="/or/resources/sheet8_sols_cy.pdf">Datrysiadau Ysgrifenedig 8</a></li>
       </ul>
     </li>
   </ul>
