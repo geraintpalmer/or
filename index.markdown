@@ -69,6 +69,11 @@ Problem sheets
     <li> Chapter 5: Linear Programming
       <ul>
         <li><a href="/or/resources/sheet5_sols.pdf">Written Solutions 5</a></li>
+        <li><a href="https://youtu.be/j584GrutvtI">Video: Question 1</a></li>
+        <li><a href="https://youtu.be/tUSH-VpStHA">Video: Question 2</a></li>
+        <li><a href="https://youtu.be/OQanld2vibs">Video: Question 3</a></li>
+        <li><a href="https://youtu.be/6i4-_BzQcIU">Video: Question 4</a></li>
+        <li><a href="https://youtu.be/ALJPg9nGT7A">Video: Question 5</a></li>
       </ul>
     </li>
     <li> Chapter 6: Transportation Problems

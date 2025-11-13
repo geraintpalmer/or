@@ -68,6 +68,11 @@ Taflennu Problemau
     <li> Pennod 5: Rhaglennu Llinol
       <ul>
         <li><a href="/or/resources/sheet5_sols_cy.pdf">Datrysiadau Ysgrifenedig 5</a></li>
+        <li><a href="https://youtu.be/j584GrutvtI">Fideo: Cwestiwn 1 (<img class="emoji" draggable="false" src="https://twemoji.maxcdn.com/2/svg/1f1ec-1f1e7.svg"/>)</a></li>
+        <li><a href="https://youtu.be/tUSH-VpStHA">Fideo: Cwestiwn 2 (<img class="emoji" draggable="false" src="https://twemoji.maxcdn.com/2/svg/1f1ec-1f1e7.svg"/>)</a></li>
+        <li><a href="https://youtu.be/OQanld2vibs">Fideo: Cwestiwn 3 (<img class="emoji" draggable="false" src="https://twemoji.maxcdn.com/2/svg/1f1ec-1f1e7.svg"/>)</a></li>
+        <li><a href="https://youtu.be/6i4-_BzQcIU">Fideo: Cwestiwn 4 (<img class="emoji" draggable="false" src="https://twemoji.maxcdn.com/2/svg/1f1ec-1f1e7.svg"/>)</a></li>
+        <li><a href="https://youtu.be/ALJPg9nGT7A">Fideo: Cwestiwn 5 (<img class="emoji" draggable="false" src="https://twemoji.maxcdn.com/2/svg/1f1ec-1f1e7.svg"/>)</a></li>
       </ul>
     </li>
     <li> Pennod 6: Problemau Cludiant
