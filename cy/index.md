@@ -78,6 +78,12 @@ Taflennu Problemau
     <li> Pennod 6: Problemau Cludiant
       <ul>
         <li><a href="/or/resources/sheet6_sols_cy.pdf">Datrysiadau Ysgrifenedig 6</a></li>
+        <li><a href="https://youtu.be/LnGlibZ0P0w">Fideo: Cwestiwn 1 (<img class="emoji" draggable="false" src="https://twemoji.maxcdn.com/2/svg/1f1ec-1f1e7.svg"/>)</a></li>
+        <li><a href="https://youtu.be/_48cdkyXq3k">Fideo: Cwestiwn 2 (<img class="emoji" draggable="false" src="https://twemoji.maxcdn.com/2/svg/1f1ec-1f1e7.svg"/>)</a></li>
+        <li><a href="https://youtu.be/0gaDCI9p6qc">Fideo: Cwestiwn 3 (<img class="emoji" draggable="false" src="https://twemoji.maxcdn.com/2/svg/1f1ec-1f1e7.svg"/>)</a></li>
+        <li><a href="https://youtu.be/zJVpH9K90yg">Fideo: Cwestiwn 4 (<img class="emoji" draggable="false" src="https://twemoji.maxcdn.com/2/svg/1f1ec-1f1e7.svg"/>)</a></li>
+        <li><a href="https://youtu.be/TnYbr5lnJ7s">Fideo: Cwestiwn 5 (<img class="emoji" draggable="false" src="https://twemoji.maxcdn.com/2/svg/1f1ec-1f1e7.svg"/>)</a></li>
+        <li><a href="https://youtu.be/HIbiSGV9kGg">Fideo: Cwestiwn 6 (<img class="emoji" draggable="false" src="https://twemoji.maxcdn.com/2/svg/1f1ec-1f1e7.svg"/>)</a></li>
       </ul>
     </li>
     <li> Pennod 7: Rhaglennu Deinameg

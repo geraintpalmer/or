@@ -79,6 +79,12 @@ Problem sheets
     <li> Chapter 6: Transportation Problems
       <ul>
         <li><a href="/or/resources/sheet6_sols.pdf">Written Solutions 6</a></li>
+        <li><a href="https://youtu.be/LnGlibZ0P0w">Video: Question 1</a></li>
+        <li><a href="https://youtu.be/_48cdkyXq3k">Video: Question 2</a></li>
+        <li><a href="https://youtu.be/0gaDCI9p6qc">Video: Question 3</a></li>
+        <li><a href="https://youtu.be/zJVpH9K90yg">Video: Question 4</a></li>
+        <li><a href="https://youtu.be/TnYbr5lnJ7s">Video: Question 5</a></li>
+        <li><a href="https://youtu.be/HIbiSGV9kGg">Video: Question 6</a></li>
       </ul>
     </li>
     <li> Chapter 7: Dynamic Programming
