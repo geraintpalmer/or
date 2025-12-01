@@ -89,6 +89,10 @@ Taflennu Problemau
     <li> Pennod 7: Rhaglennu Deinameg
       <ul>
         <li><a href="/or/resources/sheet7_sols_cy.pdf">Datrysiadau Ysgrifenedig 7</a></li>
+        <li><a href="https://youtu.be/BzaprO8kXMc">Fideo: Cwestiwn 1 (<img class="emoji" draggable="false" src="https://twemoji.maxcdn.com/2/svg/1f1ec-1f1e7.svg"/>)</a></li>
+        <li><a href="https://youtu.be/9K_TNDucSnE">Fideo: Cwestiwn 2 (<img class="emoji" draggable="false" src="https://twemoji.maxcdn.com/2/svg/1f1ec-1f1e7.svg"/>)</a></li>
+        <li><a href="https://youtu.be/rKt84dZstQc">Fideo: Cwestiwn 3 (<img class="emoji" draggable="false" src="https://twemoji.maxcdn.com/2/svg/1f1ec-1f1e7.svg"/>)</a></li>
+        <li><a href="https://youtu.be/QVJPhmyJ0GU">Fideo: Cwestiwn 4 (<img class="emoji" draggable="false" src="https://twemoji.maxcdn.com/2/svg/1f1ec-1f1e7.svg"/>)</a></li>
       </ul>
     </li>
     <li> Pennod 8: Rheoli Prosiectau

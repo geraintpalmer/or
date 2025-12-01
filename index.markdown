@@ -90,6 +90,10 @@ Problem sheets
     <li> Chapter 7: Dynamic Programming
       <ul>
         <li><a href="/or/resources/sheet7_sols.pdf">Written Solutions 7</a></li>
+        <li><a href="https://youtu.be/BzaprO8kXMc">Video: Question 1</a></li>
+        <li><a href="https://youtu.be/9K_TNDucSnE">Video: Question 2</a></li>
+        <li><a href="https://youtu.be/rKt84dZstQc">Video: Question 3</a></li>
+        <li><a href="https://youtu.be/QVJPhmyJ0GU">Video: Question 4</a></li>
       </ul>
     </li>
     <li> Chapter 8: Project Management
