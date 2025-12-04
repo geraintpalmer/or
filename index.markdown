@@ -99,6 +99,9 @@ Problem sheets
     <li> Chapter 8: Project Management
       <ul>
         <li><a href="/or/resources/sheet8_sols.pdf">Written Solutions 8</a></li>
+        <li><a href="https://youtu.be/EnGWQ3LcrNU">Video: Question 1</a></li>
+        <li><a href="https://youtu.be/fyQ3AuMvZD0">Video: Question 2</a></li>
+        <li><a href="https://youtu.be/e0ZLUAgsL2g">Video: Question 3</a></li>
       </ul>
     </li>
   </ul>

@@ -98,6 +98,9 @@ Taflennu Problemau
     <li> Pennod 8: Rheoli Prosiectau
       <ul>
         <li><a href="/or/resources/sheet8_sols_cy.pdf">Datrysiadau Ysgrifenedig 8</a></li>
+        <li><a href="https://youtu.be/EnGWQ3LcrNU">Fideo: Cwestiwn 1 (<img class="emoji" draggable="false" src="https://twemoji.maxcdn.com/2/svg/1f1ec-1f1e7.svg"/>)</a></li>
+        <li><a href="https://youtu.be/fyQ3AuMvZD0">Fideo: Cwestiwn 2 (<img class="emoji" draggable="false" src="https://twemoji.maxcdn.com/2/svg/1f1ec-1f1e7.svg"/>)</a></li>
+        <li><a href="https://youtu.be/e0ZLUAgsL2g">Fideo: Cwestiwn 3 (<img class="emoji" draggable="false" src="https://twemoji.maxcdn.com/2/svg/1f1ec-1f1e7.svg"/>)</a></li>
       </ul>
     </li>
   </ul>
