@@ -8,7 +8,7 @@ layout: default
 
 Map Modiwl
 ----------
-+ [Map Modiwl](/or/resources/module_map_cy.pdf)
++ [Map Modiwl](/or/resources/map_modiwl.pdf)
 
 Handbook
 --------
