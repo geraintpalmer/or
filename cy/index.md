@@ -110,7 +110,7 @@ Taflennu Problemau
 Ffug Arholiadau
 ---------------
 + [Ffug Arholiad 1](/or/resources/mock_exam_1.pdf)
-+ [Ffug Arholiad 2](/or/resources/mock_exam_1.pdf)
++ [Ffug Arholiad 2](/or/resources/mock_exam_2.pdf)
 
 <details>
   <summary>Datrysiadau</summary>

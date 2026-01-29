@@ -112,7 +112,7 @@ Problem sheets
 Mock Exams
 ----------
 + [Mock exam 1](/or/resources/mock_exam_1.pdf)
-+ [Mock exam 2](/or/resources/mock_exam_1.pdf)
++ [Mock exam 2](/or/resources/mock_exam_2.pdf)
 
 <details>
   <summary>Solutions</summary>
