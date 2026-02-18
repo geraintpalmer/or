@@ -127,6 +127,14 @@ Mock Coursework
 ---------------
 + [Mock Coursework](/or/resources/mock_coursework.pdf)
 
+<details>
+  <summary>Solutions</summary>
+  <ul>
+    <li><a href="/or/resources/mock_coursework_sols.pdf">Written Solutions to Mock Coursework</a></li>
+  </ul>
+</details>
+<br>
+
 Revision Quiz
 -------------
 + [Revision Quiz](https://www.geraintianpalmer.org.uk/revision-quiz/)

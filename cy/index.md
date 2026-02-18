@@ -123,7 +123,15 @@ Ffug Arholiadau
 
 Ffug Gwaith Cwrs
 ----------------
-+ [Ffug Gwaith Cwrs](/or/resources/mock_coursework_cy.pdf)
++ [Ffug Gwaith Cwrs](/or/resources/ffug_gwaith_cwrs.pdf)
+
+<details>
+  <summary>Datrysiadau</summary>
+  <ul>
+    <li><a href="/or/resources/mock_coursework_sols.pdf">Datrysiadau Ysgrifenedig i'r Ffug Gwaith Cwrs (<img class="emoji" draggable="false" src="https://twemoji.maxcdn.com/2/svg/1f1ec-1f1e7.svg"/>)</a></li>
+  </ul>
+</details>
+<br>
 
 Cwis Adolygu
 ------------
