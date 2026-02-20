@@ -135,6 +135,10 @@ Mock Coursework
 </details>
 <br>
 
+Coursework
+----------
++ [Coursework 2026](/or/resources/coursework.pdf)
+
 Revision Quiz
 -------------
 + [Revision Quiz](https://www.geraintianpalmer.org.uk/revision-quiz/)

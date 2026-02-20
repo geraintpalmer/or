@@ -133,6 +133,11 @@ Ffug Gwaith Cwrs
 </details>
 <br>
 
+Gwaith Cwrs
+------------
++ [Gwaith Cwrs 2026](/or/resources/gwaith_cwrs.pdf)
+
+
 Cwis Adolygu
 ------------
 + [Cwis Adolygu](https://www.geraintianpalmer.org.uk/revision-quiz/)
